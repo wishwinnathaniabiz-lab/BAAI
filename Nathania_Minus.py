@@ -1,7 +1,7 @@
 #
 # Nathania, 2025/09/24
 # File: Nathania_Minus.py
-# Short description of the task
+# Subtract two numbers then print
 #
 
 # 1. Input
